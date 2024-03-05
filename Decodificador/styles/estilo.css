@@ -17,7 +17,7 @@ body{
     font-family: 'roboto', sans-serif;
 }
 .cabecalho__msg{
-    padding: 0% 0% 0% 30%;
+    padding: 0% 0% 0% 35%;
 }
 
 .cabecalho{
@@ -37,7 +37,7 @@ body{
 .container-input{
     display: flex;
     justify-content: space-between;
-    padding: 0% 20% 0% 30%;
+    padding: 2% 20% 0% 20%;
 }
 
 .container-input .input{
@@ -104,7 +104,7 @@ body{
  }
 
     .container-bnt{
-        padding: 0% 0% 0% 28%;
+        padding: 0% 0% 0% 35%;
     }
 
 .btn-copiar{
@@ -115,7 +115,7 @@ body{
     width: 160px;
     height: 50px;
     margin-bottom: 10%;
-    margin-left: 35%;
+    margin-left: 30%;
     cursor: pointer;
 }
 
