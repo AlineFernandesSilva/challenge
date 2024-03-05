@@ -1,4 +1,4 @@
-[![Decodificador]()](https://github.com/AlineFernandesSilva/challenge/commit/05f31604fa472cd4b186dfcd26d0c679e9e46295#diff-68646a58313c8bb6084eda3b8e077c20d3e895fffafe90d3e237e420d40c4489)
+[![Decodificador](https://github.com/AlineFernandesSilva/challenge/commit/05f31604fa472cd4b186dfcd26d0c679e9e46295#diff-68646a58313c8bb6084eda3b8e077c20d3e895fffafe90d3e237e420d40c4489)]
 <h1 align= center> Challenger Alura - Codificar e Decodificar Textos </h1>
 <p align= center> Este site é para codificar de textos.</p>
 <h1>:star2: Entra lá e confira!... </h1>
