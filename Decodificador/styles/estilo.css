@@ -12,12 +12,12 @@ body{
 }
 
 *{
-    margin: 0;
+    margin: 0%;
     padding: 0;
     font-family: 'roboto', sans-serif;
 }
 .cabecalho__msg{
-    padding: 0% 4% 0% 3.5%;
+    padding: 0% 0% 0% 30%;
 }
 
 .cabecalho{
@@ -37,7 +37,7 @@ body{
 .container-input{
     display: flex;
     justify-content: space-between;
-    padding: 1% 0% 0% 4%;
+    padding: 0% 20% 0% 30%;
 }
 
 .container-input .input{
@@ -56,7 +56,7 @@ body{
     border: 3px solid var(--cortitulo);
     resize: none;
     outline: 0;
-    padding: 10px 10px 60px 15px;
+    padding: 10px 0px 60px 15px;
     text-transform: uppercase;
 }
     
@@ -100,8 +100,12 @@ body{
     height: 50px;
     margin-left: 4%;
     cursor: pointer;
-   
+      
  }
+
+    .container-bnt{
+        padding: 0% 0% 0% 28%;
+    }
 
 .btn-copiar{
     border: 2px solid var(--cortitulo);
@@ -111,7 +115,7 @@ body{
     width: 160px;
     height: 50px;
     margin-bottom: 10%;
-    margin-left: 30%;
+    margin-left: 35%;
     cursor: pointer;
 }
 
